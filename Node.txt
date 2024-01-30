@@ -1,0 +1,12 @@
+install node di website resminya
+cek versi node: node -v
+jalankan node di mingw agar bisa mengetik peritah unique
+masuk ke node: node -> bisa mengcode di situ
+buat file js di mingw: touch nama_file
+isi file js lewat mingw: vi nama_file lalu klik i (insert mode) -> sekarang bisa mengcode di mingwnya
+save dan keluar: klik escape :wq -> w: write, q:quit
+membuka hasil di node mingw: node->.load nama_file 
+hapus file: rm nama_file
+membuat file tapi mengcode dulu: code dulu script js->.save nama_file
+perintah unique membuka file di mingw: cat nama_file
+sedang mencode tapi tidak ingin melanjutkan codenya gunakan perintah: .breake atau .clear
